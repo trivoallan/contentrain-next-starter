@@ -88,5 +88,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "event"
+  },
+  {
+    "name": "From",
+    "fieldId": "from",
+    "modelId": "event",
+    "componentId": "date-time",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
