@@ -126,5 +126,13 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "Event",
+    "modelId": "event",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
